@@ -4,7 +4,7 @@ This website can be found at:<br>
 
 <br>
 The repository for this website can be found at:<br>
-[https://github.com/WahineTech/WahineTech](https://github.com/WahineTech/WahineTech)
+[https://github.com/WahineTech/WahineTech]
 
 ## Table of contents
 
