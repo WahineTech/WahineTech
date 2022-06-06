@@ -1,5 +1,7 @@
 # WahineTech
 
+Welcome to "Manoa Fitness Finder" an web applciation modified to meet the Software Quality Assurance standards. 
+
 This website can be found at:<br>
 
 <br>
@@ -9,11 +11,23 @@ The repository for this website can be found at:<br>
 ## Table of contents
 
 * [Description](#description)
-* [Team Members](#team-members)
+* [Team Members and Assigned Duties](#team-members)
 * [User Guide](#user-guide)
-* [Milestone 1](#milestone-1)
-* [Milestone 2](#milestone-2)
-* [Milestone 3](#milestone-3)
+* [What is completed so far](#what-is-completed-so-far)
+* [What is pending](#what-is-pending)
 * [Coming Soon](#coming-soon)
 
-## Overview
+## Team Members and Assigned Duties 
+
+### Gaila Galano
+
+
+### Lana Kawaichi
+
+
+### Christine Uehara
+
+
+## What is completed so far 
+
+## What is pending 
