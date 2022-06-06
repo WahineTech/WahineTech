@@ -13,7 +13,7 @@ The repository for this website can be found at:<br>
 * [Team Members and Assigned Duties](#team-members-and-assigned-duties)
 * [What is completed so far](#what-is-completed-so-far)
 * [What is pending](#what-is-pending)
-* [Coming Soon](#coming-soon)
+
 
 ## Team Members and Assigned Duties 
 
@@ -27,5 +27,10 @@ The repository for this website can be found at:<br>
 
 
 ## What is completed so far 
+* Landing Page 
+* User Log-in Page 
+* User Sign-up Page 
+* Edit Profile Page 
+* Users Profile Page
 
 ## What is pending 
