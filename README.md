@@ -10,9 +10,7 @@ The repository for this website can be found at:<br>
 
 ## Table of contents
 
-* [Description](#description)
-* [Team Members and Assigned Duties](#team-members)
-* [User Guide](#user-guide)
+* [Team Members and Assigned Duties](#team-members-and-assigned-duties)
 * [What is completed so far](#what-is-completed-so-far)
 * [What is pending](#what-is-pending)
 * [Coming Soon](#coming-soon)
