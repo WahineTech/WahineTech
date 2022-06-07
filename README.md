@@ -18,13 +18,14 @@ The repository for this website can be found at:<br>
 ## Team Members and Assigned Duties 
 
 ### Gaila Galano
-
+  * Editing the Landing Page 
 
 ### Lana Kawaichi
 
 
 ### Christine Uehara
-
+  * Set up our organization on Github 
+  * Created Readme.md file 
 
 ## What is completed so far 
 * Landing Page 
