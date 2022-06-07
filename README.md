@@ -31,13 +31,11 @@ The repository for this website can be found at:<br>
     * Completion of Landing Page 
 
 ### Lana Kawaichi
-  * Pending 
+  * Updating UI for Profile Page 
 
 ### Christine Uehara
   * Organizing the pages that need to be updated and changed 
-  * Pending 
-    * UI design for profile page 
-    * UI design and information for sign-up page 
+  * UI design and information for sign-up page 
     
 ## What is completed so far 
    We are currently updating and improving the design for the Manoa Fitness Finder. Since most of the pages have been
