@@ -45,9 +45,27 @@ The repository for this website can be found at:<br>
 ## Week 3
 
 ### Progress 
-We are enhancing the UI for the main pages. 
+We are enhancing the UI for the main pages. We are discussing what issues need to be fixed inorder to contiune on to the verification part of the assignment. 
 
 ### Pending 
  * Revise UI clarity 
  * Go through pages to check and fix any bugs/issues 
+
+## Roles and Responsibilities 
+
+### Gaila Galano
+  * Work on fixing EsLint errors on assigned pages 
+  * Completed: 
+    * UI clarity of Landing Page 
+
+### Lana Kawaichi
+  * Work on fixing EsLint errors on assign pages 
+  * Completed: 
+    * Updating UI for Profile Page 
+
+### Christine Uehara
+  * List of pages that have EsLint issues 
+  * Completed: 
+    * List of pages that need to be updated 
+    * UI design and information for sign-up page 
 
