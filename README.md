@@ -21,6 +21,7 @@ The repository for this website can be found at:<br>
 
 * [Team Members and Assigned Duties](#team-members-and-assigned-duties)
 * [What is completed so far](#what-is-completed-so-far)
+* [Week 3 Progress](#week-3)
 
 
 ## Team Members and Assigned Duties 
@@ -40,4 +41,13 @@ The repository for this website can be found at:<br>
 ## What is completed so far 
    We are currently updating and improving the design for the Manoa Fitness Finder. Since most of the pages have been
     completed already, we decided to focus on ways to meet the software quality assurance standards. 
+
+## Week 3
+
+### Progress 
+We are enhancing the UI for the main pages. 
+
+### Pending 
+ * Revise UI clarity 
+ * Go through pages to check and fix any bugs/issues 
 
