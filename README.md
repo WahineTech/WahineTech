@@ -21,7 +21,7 @@ The repository for this website can be found at:<br>
 
 * [Team Members and Assigned Duties](#team-members-and-assigned-duties)
 * [What is completed so far](#what-is-completed-so-far)
-* [Week 3 Progress](#week-3)
+* [Week 4 Progress](#week-4)
 
 
 ## Team Members and Assigned Duties 
@@ -39,16 +39,15 @@ The repository for this website can be found at:<br>
   * UI design and information for sign-up page 
     
 ## What is completed so far 
-   We are currently updating and improving the design for the Manoa Fitness Finder. Since most of the pages have been
-    completed already, we decided to focus on ways to meet the software quality assurance standards. 
+   The UI layout of the web application has been completed. We are now focused on the backend side of the application where security is taking place.
 
-## Week 3
+## Week 4
 
 ### Progress 
-We are enhancing the UI for the main pages. We are discussing what issues need to be fixed inorder to contiune on to the verification part of the assignment. 
+We are enhancing the vulnerability of all pages. Attempt for break-ins is currently being done to detect any potholes in the application.
 
 ### Pending 
- * Revise UI clarity 
+ * Improving the vulnerability 
  * Go through pages to check and fix any bugs/issues 
 
 ## Roles and Responsibilities 
